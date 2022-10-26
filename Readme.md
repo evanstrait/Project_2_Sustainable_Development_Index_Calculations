@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Creating Database in MYSQL! WOW
+# Creating a database in MYSQL!
 
 ## Content
 - [Project Description](#project-description)
